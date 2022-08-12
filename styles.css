@@ -1,0 +1,88 @@
+/* Remove body margins */
+html, body {
+width: auto !important;
+overflow-x: hidden !important;
+margin: 0;
+padding: 0;}
+.btn {
+  background-color: white;
+  border-radius: 30%;
+}
+.contact{
+  color: black;
+}
+.img{
+  width: 100%;
+  height: 100%;
+}
+.new{
+  margin: 0;
+  height: 17cm;
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+
+}
+.text {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.textNav{
+  position: absolute;
+  top: 7%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+}
+.textLink{
+  position: absolute;
+  top: 7%;
+  right: 0%;
+  transform: translate(-50%, -50%);
+}
+.ancor{
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+margin: 0 0 0 20px;
+}
+.text2 {
+  position: absolute;
+  top:70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.tex{
+  padding: 12% 12%;
+  text-align: left;
+}
+.img3{
+  width: 100%;
+       height: 100%;
+        top: 0;
+}
+.tex2{
+  margin: 0;
+  padding: 0;
+}
+.testimonials{
+  padding: 8% 10%;
+  text-align: center;
+}
+.round{
+  border-radius: 100%;
+  width: 30%;
+}
+.list{
+display:inline-block;
+margin: 20px 30px;
+}
+.footer{
+  padding: 4% 30%;
+  text-align: center;
+  background-color: hsl(168, 34%, 41%);
+}
